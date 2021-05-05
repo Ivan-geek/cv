@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 90px;
+  margin-top: 50px;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+.profile {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.m-y-skill {
+  margin: 100px auto auto auto;
+}
+
+#underhead {
+  margin: 0;
+}
+
+hr {
+  width: 10%;
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  height: 0px;
+  border-width: 20px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.skill-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.com-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.com-describe {
+  clear: right;
+}
+
+a {
+  color: #11999E;
+  margin: 10px;
+  font-style: arial;
+  text-decoration: none;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.buttom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 350px;
+}
+
+.top_container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.contact-me {
+  margin-top: 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 80px;
+}
+
+.footer-link {
+  position: relative;
+  top: 20%;
+  color: #11999E;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+
+.BUTTON_AWY {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 25px;
+  line-height: 25px;
+  color: #FFFFFF;
+  font-family: Arial;
+  width: 219px;
+  font-size: 28px;
+  font-weight: 100;
+  padding: 18px;
+  border-color-hover: ;
+  border-style-hover: solid;
+  border-width-hover: 1;
+  background-color: #11999E;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 30px auto 50px auto;
+}
+
+.BUTTON_AWY:hover {
+  background: rgba(64, 201, 199, 0.8);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.end {
+  position: relative;
+  top: 15%;
+  color: #EAF6F6;
+}
